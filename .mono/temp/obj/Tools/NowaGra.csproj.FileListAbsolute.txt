@@ -1,0 +1,6 @@
+C:\Users\sdomanski\Desktop\Godot_v3.0.6-stable_win64.exe\NowaGra\.mono\temp\bin\Tools\NowaGra.dll
+C:\Users\sdomanski\Desktop\Godot_v3.0.6-stable_win64.exe\NowaGra\.mono\temp\bin\Tools\NowaGra.pdb
+C:\Users\sdomanski\Desktop\Godot_v3.0.6-stable_win64.exe\NowaGra\.mono\temp\obj\Tools\NowaGra.csprojAssemblyReference.cache
+C:\Users\sdomanski\Desktop\Godot_v3.0.6-stable_win64.exe\NowaGra\.mono\temp\obj\Tools\NowaGra.csproj.CoreCompileInputs.cache
+C:\Users\sdomanski\Desktop\Godot_v3.0.6-stable_win64.exe\NowaGra\.mono\temp\obj\Tools\NowaGra.dll
+C:\Users\sdomanski\Desktop\Godot_v3.0.6-stable_win64.exe\NowaGra\.mono\temp\obj\Tools\NowaGra.pdb
